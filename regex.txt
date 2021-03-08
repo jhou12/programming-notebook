@@ -1,0 +1,14 @@
+// REGEX:
+
+test: REGEX.test(STR)
+arr of matches: STR.match(REGEX)
+
+ignore case: /REGEX/i
+all indiv matches: /REGEX/g
+
+do NOT match: /[^REGEX]/
+
+match letters & nums: /\w/
+match NON letters & nums: /\W/
+match nums: /\d/
+match NON whitespace: /\S/

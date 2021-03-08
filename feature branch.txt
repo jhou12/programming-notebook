@@ -1,0 +1,9 @@
+// FEATURE BRANCH WORKFLOW:
+
+git checkout master
+git checkout -b new-feature
+(commit)
+git push -u origin new-feature
+git checkout master
+git pull origin new-feature
+git push

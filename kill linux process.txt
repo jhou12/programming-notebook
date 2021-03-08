@@ -1,0 +1,13 @@
+// KILL LINUX PROCESS:
+
+// LIST ALL LINUX PROCESSES
+ps -ef -A
+
+// LIST ONLY NODE PROCESSES
+ps -ef | grep node
+
+// KILL PROCESS
+kill -9 pid
+
+// KILL ALL NODE PROCESSES
+killall node
