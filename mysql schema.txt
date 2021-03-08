@@ -1,0 +1,15 @@
+// MYSQL SCHEMA FORMAT
+
+DROP DATABASE IF EXISTS dbname;
+CREATE DATABASE dbname;
+USE dbname;
+
+CREATE TABLE items (
+  id int NOT NULL AUTO_INCREMENT,
+  quantity int NOT NULL,
+  description varchar(50) NOT NULL,
+  PRIMARY KEY (ID)
+);
+
+// RUN SCHEMA
+mysql -u root < schema.sql
