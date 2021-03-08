@@ -1,0 +1,4 @@
+// ENV FORMAT
+
+VAR_NAME=string
+EMPTY_STRING_VAR=''
