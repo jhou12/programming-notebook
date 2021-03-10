@@ -1,0 +1,11 @@
+// TERMINAL VS SHELL VS BASH VS COMMAND LINE
+
+command line - text interface used to issue commands to the computer (as opposed to GUI or Graphical User Interface)
+
+prompt - line where you issue the command
+
+terminal - window where you use the command line interface (technically terminal emulator, as opposed to traditional terminals that connected to pre-PC mainframes)
+
+shell - program that interprets the command for the computer / Unix-like OS's, examples include: Bourne shell (sh), Bourne Again Shell or BASH (bash), Secure shell (ssh), Z shell (zsh)
+
+BASH - Bourne Again Shell, a type of shell

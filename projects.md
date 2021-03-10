@@ -1,4 +1,4 @@
-# POSSIBLE PORTOFOLIO PROJECTS: (chron order)
+# Possible Portfolio Projects: (chron order)
 
 1. grocery list
 1. github fetcher (fs review)
