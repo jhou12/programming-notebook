@@ -1,0 +1,17 @@
+// CRYPTOCURRENCY
+
+blockchain - hashed, linked-list, peer-to-peer db, originally created for bitcoin, now there are many types
+
+bitcoin - cryptocurrency used for payment, uses blockchain to verify private & public transaction keys, max supply 21mil
+
+bitcoin mining - using high-energy consuming units to solve bitcoin proof-of-work hashes, taking about 10 minutes each, to verify other users' transactions and unlock new bitcoin (currently 12.5 per transaction)
+
+ethereum - blockchain for ether cryptocurrency, 2nd largest after bitcoin, uses smart contracts and is more versatile than bitcoin, can be used for property, stocks, banking, and gambling
+
+dogecoin - cryptocurrency started as a joke based on the Shiba Inu dog meme, later merged mining with litecoin, mainly attention-based value from Twitter and Elon Musk
+
+NFT - non-fungible token (non-interchangeable), can be art, music, tweets, or even virtual land, some concerns about high-priced art sales being front for unregulated money-laundering and tax-evasion. celebs involved: Mark Cuban, Lindsay Lohan, Logan Paul, Soulja Boy, Jack Dorsey, Grimes. artists: Beeple, Mad Dog Jones.
+
+DAPPS - decentralized apps, for example smart contracts used in blockchains like ethereum
+
+DEFI - decentralized finance, based on blockchain, using dapps
