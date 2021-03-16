@@ -1,4 +1,4 @@
-# Possible Portfolio Projects: (chron order)
+## Possible Portfolio Projects: (chron order)
 
 1. grocery list
 1. github fetcher (fs review)
@@ -11,3 +11,13 @@
 1. airbnb reviews clone (fec)
 1. airbnb recommendations clone (fec)
 1. airbnb services proxy (fec)
+
+## Refactor Checklist:
+1. README w/screenshot
+1. env vars!
+1. gitignore
+1. async await
+1. hooks
+1. styled components
+1. flex
+1. endpoints?
