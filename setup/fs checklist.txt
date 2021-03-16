@@ -15,3 +15,4 @@
     a.	app.use(express.static(‘reactFolder’))
     b.	app.use(express.json())
     c.	app.use(express.urlencoded({extended: true})
+10. install webpack
