@@ -10,14 +10,7 @@
 1. connect 4 (mini app4)
 1. tic-tac-toe (mini app1)
 1. movielist
-1. ~~grocery list~~
+1. ~~grocery list~~ (redundant w/movielist)
 
-## Refactor Checklist:
-1. README w/screenshot
-1. env vars!
-1. gitignore
-1. async await
-1. hooks
-1. styled components
-1. flex
-1. endpoints?
+## Progress:
+- made template w/env vars, gitignore, async await, hooks, styled components, flex, & readme.
