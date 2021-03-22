@@ -5,12 +5,11 @@
 1. airbnb carousel clone (fec)
 1. proxy server (fec)
 1. github repos fetcher (fs review)
+1. ~~movielist~~ (Posted!)
 1. ~~react checkout~~ (Posted!)
 1. ~~csv generator~~ (Posted!)
 1. ~~connect 4~~ (Posted!)
 1. ~~tic-tac-toe~~ (Posted!)
-1. movielist
-1. ~~grocery list~~ (redundant w/movielist)
 1. (LATER) add sdc seeding? (sdc)
 1. (LATER) add sdc proxy? (sdc)
 
