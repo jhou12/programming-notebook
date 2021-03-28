@@ -1,0 +1,17 @@
+// MASTERING MENTAL MATH BY ART BENJAMIN
+
+// num * 9: nums that add up to 9
+9 * 7 = 63
+6 (one less than 7) and 3 (6 and 3 make 9)
+
+// num * 11: add the middle
+13 * 11 = 143
+1 and 3 are on the outside, the middle is 3 + 1 (4), making 1-4-3
+75 * 11 = 825
+7 and 5 are on the outside, the middle is 7 + 5 (12), which has an extra digit so carry to the 7, making 8-2-5
+
+// num ending in 5, squared: mult by next higher outer digit, concat with 25
+35 * 35 = 1225
+3 * 4 (one higher than 3) = 12 and 25 is 12-25
+75 * 75 = 5625
+7 * 8 (one higher than 7) = 56 and 25 is 56-25
