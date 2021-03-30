@@ -15,3 +15,9 @@
 3 * 4 (one higher than 3) = 12 and 25 is 12-25
 75 * 75 = 5625
 7 * 8 (one higher than 7) = 56 and 25 is 56-25
+
+// tips:
+- add LEFT to right: chunk together largest to smallest digits
+163 = 100 + 60 + 3
+- round numbers and then add/subtract the difference at the end
+188 = use 190, then take away 2

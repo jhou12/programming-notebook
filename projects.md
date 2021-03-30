@@ -1,9 +1,9 @@
 # Possible Portfolio Projects: (display order)
 
 1. bday fact finder (mvp)
-1. airbnb reviews clone (fec)
-1. airbnb carousel clone (fec)
-1. proxy server (fec)
+1. ~~airbnb soa reviews app~~ (Posted!)
+1. ~~airbnb soa carousel module~~ (Posted!)
+1. ~~airbnb soa proxy server~~ (Posted!)
 1. ~~github repos fetcher~~ (Posted!)
 1. ~~movielist~~ (Posted!)
 1. ~~react checkout~~ (Posted!)
