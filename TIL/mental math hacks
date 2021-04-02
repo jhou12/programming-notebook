@@ -21,3 +21,9 @@
 163 = 100 + 60 + 3
 - round numbers and then add/subtract the difference at the end
 188 = use 190, then take away 2
+- complements: number added to another number that equals a round number, usually multiple of 10. left digits add up to 9 except for rightmost digit which adds to 10.
+complement of 82 is 18 (82 + 18 = 100, 8 + 1 = 9, 2 + 8 = 10)
+- oversubtracting & adding complements
+1234 - 567 = 667 (1234 - 600 = 634, add back complement of 567, 634 + 33 = 667)
+- cashier's method: add complement and remaining amount
+110 - 87 = 23 (complement of 87 is 13, add remainder 10, 13 + 10 = 23)
