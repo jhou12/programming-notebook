@@ -27,3 +27,5 @@ complement of 82 is 18 (82 + 18 = 100, 8 + 1 = 9, 2 + 8 = 10)
 1234 - 567 = 667 (1234 - 600 = 634, add back complement of 567, 634 + 33 = 667)
 - cashier's method: add complement and remaining amount
 110 - 87 = 23 (complement of 87 is 13, add remainder 10, 13 + 10 = 23)
+- multiply LEFT to right
+27 * 8 = 216 (20 * 8 = 160, 7 * 8 = 56, 160 + 56 = 216)
