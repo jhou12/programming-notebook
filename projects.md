@@ -30,6 +30,8 @@
 1. pin?
 
 ## Progress:
-- made template w/env vars, gitignore, async await, hooks, styled components, flex, & readme
-- posted all repos to date
-- site & resume now live at jennyhou.dev :)
+1. made template w/env vars, gitignore, async await, hooks, styled components, flex, & readme
+1. posted all repos to date
+1. site & resume now live at jennyhou.dev :)
+1. daily: apply for jobs, toy probs, hr work, illustrations
+- after finishing projects upload all new repos, and reselect & reorder projects on linkedin & website
