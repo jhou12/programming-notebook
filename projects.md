@@ -1,17 +1,17 @@
-# Possible Portfolio Projects: (display order)
+# Portfolio Projects:
 
 1. ~~airbnb soa reviews app~~ (Posted!)
 1. ~~airbnb soa carousel module~~ (Posted!)
 1. ~~airbnb soa proxy~~ (Posted!)
+1. ~~fullstack birthday fact finder~~ (Posted!)
+1. ~~amazon soa photos db~~ (Posted!)
+1. ~~amazon soa proxy~~ (Posted!)
 1. ~~fullstack github repos fetcher~~ (Posted!)
 1. ~~fullstack checkout app~~ (Posted!)
-1. ~~fullstack birthday fact finder~~ (Posted!)
 1. ~~fullstack movie db~~ (Posted!)
 1. ~~connect 4~~ (Posted!)
 1. ~~tic-tac-toe~~ (Posted!)
 1. ~~csv generator~~ (Posted!)
-1. (LATER) add sdc seeding?
-1. (LATER) add sdc proxy?
 1. (LATER) new mini1?
 1. (LATER) new mini2?
 1. (LATER) new mini3?
@@ -30,8 +30,10 @@
 1. pin?
 
 ## Progress:
-1. made template w/env vars, gitignore, async await, hooks, styled components, flex, & readme
-1. posted all repos to date
-1. site & resume now live at jennyhou.dev :)
-1. daily: apply for jobs, toy probs, hr work, illustrations
-- after finishing projects upload all new repos, and reselect & reorder projects on linkedin & website
+1. ~~made template w/env vars, gitignore, async await, hooks, styled components, flex, & readme~~
+1. ~~posted all repos to date~~
+1. ~~site & resume now live at jennyhou.dev :)~~
+1. ~~daily: apply for jobs, toy probs, hr work~~
+1. ~~GOT THE JOB! :)~~
+1. ~~after finishing projects upload all new repos, and reselect & reorder projects on linkedin & website~~
+1. revamp portfolio to have fullstack-UX aesthetic
