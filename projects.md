@@ -12,7 +12,6 @@
 1. ~~connect 4~~ (Posted!)
 1. ~~tic-tac-toe~~ (Posted!)
 1. ~~csv generator~~ (Posted!)
-1. (LATER) new mini1?
 1. (LATER) new mini2?
 1. (LATER) new mini3?
 1. (LATER) new mini4?
