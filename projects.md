@@ -6,13 +6,13 @@
 1. ~~fullstack birthday fact finder~~ (Posted!)
 1. ~~amazon soa photos db~~ (Posted!)
 1. ~~amazon soa proxy~~ (Posted!)
+1. ~~bitcoin data visualizer~~ (Posted!)
 1. ~~fullstack github repos fetcher~~ (Posted!)
 1. ~~fullstack checkout app~~ (Posted!)
 1. ~~fullstack movie db~~ (Posted!)
 1. ~~connect 4~~ (Posted!)
 1. ~~tic-tac-toe~~ (Posted!)
 1. ~~csv generator~~ (Posted!)
-1. (LATER) new mini2?
 1. (LATER) new mini3?
 1. (LATER) new mini4?
 
