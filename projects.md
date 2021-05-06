@@ -13,7 +13,6 @@
 1. ~~connect 4~~ (Posted!)
 1. ~~tic-tac-toe~~ (Posted!)
 1. ~~csv generator~~ (Posted!)
-1. (LATER) new mini4?
 
 ## Refactoring Checklist:
 1. add comments and edit var names for clarity
