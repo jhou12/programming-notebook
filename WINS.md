@@ -1,2 +1,2 @@
 # TIL (WINS):
-bitbucket, jira, vpn, monorepo, lerna, git merge, typescript, eslint config, material ui (esp breakpoints, responsiveness), react state management (using context & usereducer hooks), destructuring props
+bitbucket, jira, vpn, monorepo, lerna, git merge, typescript, eslint config, material ui (esp breakpoints, responsiveness), react state management (using context & usereducer hooks), destructuring props, circular progress bars using css
