@@ -13,3 +13,4 @@
 - destructuring props
 - circular progress bars using css
 - css vars
+- emoji-picker-react
