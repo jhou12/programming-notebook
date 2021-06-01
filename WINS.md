@@ -12,3 +12,4 @@
 - react state management (using context & usereducer hooks)
 - destructuring props
 - circular progress bars using css
+- css vars
