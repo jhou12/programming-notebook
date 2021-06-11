@@ -7,10 +7,12 @@
 - git merge
 - typescript
 - eslint config
-- material ui (esp breakpoints
-- responsiveness)
+- material ui (esp breakpoints, responsiveness)
 - react state management (using context & usereducer hooks)
 - destructuring props
 - circular progress bars using css
 - css vars
 - emoji-picker-react
+- customizing svgs with Illustrator
+- setting up create-react-app with typescript
+- writing & importing centralized api calls using typescript 
