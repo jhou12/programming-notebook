@@ -17,3 +17,4 @@
 - setting up create-react-app with typescript
 - writing & importing centralized api calls using typescript 
 - modularizing table components using typescript interfaces
+- set up map ui with GoogleMapReact
