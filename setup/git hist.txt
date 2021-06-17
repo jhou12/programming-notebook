@@ -1,2 +1,2 @@
 // fav setup
-git config --global alias.hist 'log --pretty=format:"%C(red)%h%Creset %C(yellow)%ad | %C(magenta)%s%Creset  %Cblue[%an]" --date=short'
+git config --global alias.hist 'log --pretty=format:"%C(red)%h%Creset %C(yellow)%ad | %C(magenta)%s%Creset  %Cblue[%an]" --date=short -10'
