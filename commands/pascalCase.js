@@ -1,20 +1,21 @@
 const pascalCase = (str) => {
     const arr = str.split(' ')
-    const filter = arr.map(word => {
-        if (word !== 'LLC') {
-            const casedArr = []
+    const abbrevs = ['LLC']
+    const casedSentence = arr.map(word => {
+        if (!abbrevs.includes(word)) {
+            const casedWord = []
             const wordArr = word.split('')
             for (let i = 0; i < wordArr.length; i++) {
                 if (i === 0) {
-                    casedArr.push(wordArr[i].toUpperCase())
+                    casedWord.push(wordArr[i].toUpperCase())
                 } else {
-                    casedArr.push(wordArr[i].toLowerCase())
+                    casedWord.push(wordArr[i].toLowerCase())
                 }
             }
-            return casedArr.join('')
+            return casedWord.join('')
         } else {
-            return word
+            return word.toUpperCase()
         }
     })
-    return filter.join(' ')
+    return casedSentence.join(' ')
 }
