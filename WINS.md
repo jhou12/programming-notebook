@@ -13,11 +13,16 @@
 - setting up create-react-app with typescript
 - writing & importing centralized api calls using typescript 
 - modularizing table components using typescript interfaces
+- GoogleMapReact (markers, fitBounds, geolocation)
 
 # ui/ux: 🎨
 - material ui (esp breakpoints, responsiveness)
 - circular progress bars using css
 - emoji-picker-react
 - customizing svgs with Illustrator
-- set up map ui with GoogleMapReact
-- pitch: When I'm a developer with design skills, I don't have to create hypotheticals in Figma. When I **code** a layout, it's there, it's ready. Instead of paying double the salary & hours for a dev and a designer, why not just pay one person more to do both? On the flipside when I **design**, there's no extra layer of translation needed. I don't need to wait for devs to update me on ui/ux issues. I can just pull down latest changes, run the app, and see for myself. 
+- set up map ui with GoogleMapReact, with custom marker & popup
+- loading animation and button disabling
+- design login screen mock ups using xd
+
+# pitch: 
+When I'm a developer with design skills, I don't have to create hypotheticals in Figma. When I **code** a layout, it's there, it's ready. Instead of paying double the salary & hours for a dev and a designer, why not just pay one person more to do both? On the flipside when I **design**, there's no extra layer of translation needed. I don't need to wait for devs to update me on ui/ux issues. I can just pull down latest changes, run the app, and see for myself. 
