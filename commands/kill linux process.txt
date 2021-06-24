@@ -11,3 +11,6 @@ kill -9 pid
 
 // KILL ALL NODE PROCESSES
 killall node
+
+// LIST PORTS IN USE 
+lsof -i -P -n | grep LISTEN
