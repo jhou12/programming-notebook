@@ -14,6 +14,7 @@
 - writing & importing centralized api calls using typescript 
 - modularizing table components using typescript interfaces
 - GoogleMapReact (markers, fitBounds, geolocation)
+- useRef hook (no re-rendering)
 
 # ui/ux: 🎨
 - material ui (esp breakpoints, responsiveness)
