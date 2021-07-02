@@ -13,7 +13,7 @@
 - setting up create-react-app with typescript
 - writing & importing centralized api calls using typescript 
 - modularizing table components using typescript interfaces
-- GoogleMapReact (markers, fitBounds, geolocation)
+- GoogleMapReact (markers, fitBounds, geolocation, re-centering onClick)
 - useRef hook (no re-rendering)
 
 # ui/ux: 🎨
