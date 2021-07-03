@@ -15,6 +15,7 @@
 - modularizing table components using typescript interfaces
 - GoogleMapReact (markers, fitBounds, geolocation, re-centering onClick)
 - useRef hook (no re-rendering)
+- controlled vs uncontrolled components (during context)
 
 # ui/ux: 🎨
 - material ui (esp breakpoints, responsiveness)
