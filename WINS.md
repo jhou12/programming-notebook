@@ -27,6 +27,7 @@
 - loading animation and button disabling
 - design login screen mock ups using xd
 - make wireframes for sidebar ui
+- dropdown ui from api res
 
 # pitch: 
 When I'm a developer with design skills, I don't have to create hypotheticals in Figma. When I **code** a layout, it's there, it's ready. Instead of paying double the salary & hours for a dev and a designer, why not just pay one person more to do both? On the flipside when I **design**, there's no extra layer of translation needed. I don't need to wait for devs to update me on ui/ux issues. I can just pull down latest changes, run the app, and see for myself. 
