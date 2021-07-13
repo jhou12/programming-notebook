@@ -17,7 +17,7 @@
 - useRef hook (no re-rendering)
 - controlled vs uncontrolled components (during context)
 - working IRL :)
-- jquery hide div on external click
+- vanilla js w/dom hide div on external click
 
 # ui/ux: 🎨
 - material ui (esp breakpoints, responsiveness)
