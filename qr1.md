@@ -37,6 +37,27 @@
 - ts
 - matui
 
+# screens/features: 
+
+## primary project (social media platform): 
+- notifications
+- profile page
+- admin dashboard
+- edit profile modal
+- confirmation popups
+- map (search results sidebar and markers)
+- signup form
+- banning users
+- login
+- dropdown with api search results
+- mobile web responsiveness for login, profile page, feed, map, modals
+
+## secondary project (employee sales dashboard)
+- progress dials/meters
+- minimizing/expanding top stats bar
+- expanding display tables
+- layouts for all employee roles
+
 # pitch: 
 When I'm a developer with design skills, I don't have to create hypotheticals in Figma. When I **code** a layout, it's there, it's ready. Instead of paying double the salary & hours for a dev and a designer, why not just pay one person more to do both? On the flipside when I **design**, there's no extra layer of translation needed. I don't need to wait for devs to update me on ui/ux issues. I can just pull down latest changes, run the app, and see for myself. 
 "Act like you've been there before." - Tim Dillon
