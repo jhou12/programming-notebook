@@ -18,7 +18,7 @@
 - controlled vs uncontrolled components (during context)
 - working IRL :)
 - vanilla js w/dom hide div on external click
-- native setup: install xcode, command line tools, ios emulator
+- native setup: install xcode, command line tools, ios emulator, android sdk, studio preview
 
 # ui/ux: 🎨
 - material ui (esp breakpoints, responsiveness)
