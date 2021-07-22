@@ -30,6 +30,7 @@
 - design login screen mock ups using xd
 - make wireframes for sidebar ui
 - dropdown ui from api res
+- rn: map markers, flex layout
 
 # fe stack: 🥞
 - react
