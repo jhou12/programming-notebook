@@ -52,6 +52,7 @@
 - login
 - dropdown with api search results
 - mobile web responsiveness for login, profile page, feed, map, modals
+- rn map
 
 ## secondary project (employee sales dashboard)
 - progress dials/meters
