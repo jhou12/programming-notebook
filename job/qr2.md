@@ -1,4 +1,5 @@
 # dev: 💻
+- run rn app on iphone
 
 # ui/ux: 🎨
 - lunch with the client
