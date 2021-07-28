@@ -7,5 +7,6 @@
 # screens/features: 
 
 ## primary project (social media platform): 
+- rn profile page
 
 ## secondary project (employee sales dashboard)
