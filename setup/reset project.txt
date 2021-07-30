@@ -1,0 +1,12 @@
+// rn blank test project install: (minus yarn, node, watchman, jdk, rn cli)
+react-native init newProject
+react-native run ios
+
+// project install: 
+git clone
+cd <mobile package>
+git checkout <mobile branch>
+npm install
+lerna bootstrap
+cd ios > pod install
+run from xcode
