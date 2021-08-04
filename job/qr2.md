@@ -5,6 +5,7 @@
 # ui/ux: 🎨
 - lunch with the client
 - rn tab routing
+- hide/show header on scroll up/down ui
 
 # screens/features: 
 
