@@ -4,6 +4,7 @@
 
 # ui/ux: 🎨
 - lunch with the client
+- rn tab routing
 
 # screens/features: 
 
