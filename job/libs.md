@@ -9,3 +9,4 @@
 - react-native-maps
 - react-native-community/geolocation
 - react-native-document-picker
+- react-native-date-picker
