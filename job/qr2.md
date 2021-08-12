@@ -1,6 +1,7 @@
 # dev: 💻
 - run rn app on iphone
 - clocked >52hrs, debugged rn for 3 days straight
+- react navigation w nested navigators
 
 # ui/ux: 🎨
 - lunch with the client
