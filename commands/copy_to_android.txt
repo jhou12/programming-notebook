@@ -1,0 +1,6 @@
+// command line copy to android emulator: 
+adb push <source> <destination>
+ex: adb push '/Users/jennyhou/Desktop/pdftest.pdf' /sdcard/Download
+
+// browse file dirs: 
+adb shell, cd sdcard
