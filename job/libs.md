@@ -5,6 +5,7 @@
 - google-map-react
 
 ## 📱
-- react-native-community/geolocation
-- react-native-maps
 - react-navigation/native
+- react-native-maps
+- react-native-community/geolocation
+- react-native-document-picker
