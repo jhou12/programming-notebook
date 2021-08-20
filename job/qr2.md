@@ -16,3 +16,6 @@
 - rn profile page
 
 ## secondary project (employee sales dashboard)
+
+## gamified social-emotional-learning platform
+- got hired on 3rd project
