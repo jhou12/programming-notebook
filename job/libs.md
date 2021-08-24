@@ -10,3 +10,4 @@
 - react-native-community/geolocation
 - react-native-document-picker
 - react-native-date-picker
+- react-native-create-thumbnail (for vid upload)
