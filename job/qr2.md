@@ -3,6 +3,7 @@
 - clocked >52hrs, debugged rn for 3 days straight
 - react navigation w nested navigators
 - fixed 4 bugs in a day, starting to feel like an independent programmer
+- conditionally render map marker callout on press to optimize load speed
 
 # ui/ux: 🎨
 - lunch with the client
