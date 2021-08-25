@@ -4,6 +4,7 @@
 - react navigation w nested navigators
 - fixed 4 bugs in a day, starting to feel like an independent programmer
 - conditionally render map marker callout on press to optimize load speed
+- rn: zoom to map marker on select
 
 # ui/ux: 🎨
 - lunch with the client
