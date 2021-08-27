@@ -12,6 +12,7 @@
 - rn tab routing
 - hide/show header on scroll up/down ui
 - custom checkbox (since rn checkbox component discontinued, and most popular community package doesn't provide color customization for android)
+- start ux bootcamp!
 
 # screens/features: 
 
