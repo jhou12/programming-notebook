@@ -6,6 +6,7 @@
 - conditionally render map marker callout on press to optimize load speed
 - rn: zoom to map marker on select
 - setting customized behavior & styling for map, markers, & callouts on iOS & android
+- rn: updating context w/ route.params
 
 # ui/ux: 🎨
 - lunch with the client
