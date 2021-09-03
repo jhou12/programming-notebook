@@ -7,6 +7,7 @@
 - rn: zoom to map marker on select
 - setting customized behavior & styling for map, markers, & callouts on iOS & android
 - rn: updating context w/ route.params
+- debugging rn callout onPress in iOS vs android
 
 # ui/ux: 🎨
 - lunch with the client
